@@ -1,0 +1,6 @@
+강의 평가 홈페이지 구현 
+show databases;
+use letureevalutation
+테이블 명 : LectureEvalutation
+안에 테이블 evaluation likey user 
+
